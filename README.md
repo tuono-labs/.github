@@ -2,5 +2,5 @@
 
 ## TODOs
 
-- [ ] add spell and grammar check
+- [x] add spell and grammar check
 - [ ] add discord widget in profile?
