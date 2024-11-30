@@ -36,7 +36,7 @@ jobs:
       # particular permission
       #
       # Why this?
-      # https://github.com/Valerioageno/tuono/pull/137#pullrequestreview-2455455272
+      # https://github.com/tuono-labs/tuono/pull/137#pullrequestreview-2455455272
       - name: Set reporter
         id: reporter
         env:

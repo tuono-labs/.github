@@ -1,7 +1,7 @@
 # Welcome to ⚡️ `tuono` ⚡️
 
 [WebsiteURL]: https://tuono.dev
-[RepoURL]: https://github.com/Valerioageno/tuono
+[RepoURL]: https://github.com/tuono-labs/tuono
 
 Tuono is a full-stack web framework for building React applications using Rust as the backend with
 a strong focus on usability and performance.
