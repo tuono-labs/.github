@@ -1,30 +1,21 @@
-# Welcome to ⚡️ `tuono` ⚡️
-
-[WebsiteURL]: https://tuono.dev
-[RepoURL]: https://github.com/tuono-labs/tuono
-
-Tuono is a full-stack web framework for building React applications using Rust as the backend with
-a strong focus on usability and performance.
-
-> [!NOTE]
-> Tuono (the Italian word for "thunder", pronounced /2 Oh No/).
-> Why Tuono? It's just a badass name.
-
-## Documentation
-
-Check the [official documentation][WebsiteURL] to learn more about Tuono
-
-> [!TIP]
-> If you would like to contribute, you can reach the [Tuono repository][RepoURL]!
-
-## Social
-
-[DiscordBadge]: https://badgen.net/badge/icon/discord?icon=discord&label
-[DiscordURL]: https://discord.com/invite/khQzPa654B
-[WebsiteBadge]: https://img.shields.io/website-up-down-green-red/https/tuono.dev.svg
-
-[![Discord][DiscordBadge]][DiscordURL]
-[![Website][WebsiteBadge]][WebsiteURL]
+<h1>
+<p align="center">
+  <a href="https://github.com/tuono-labs/tuono">
+    <img src="https://raw.githubusercontent.com/tuono-labs/tuono/main/assets/logo.png" alt="Logo" width="128">
+  </a>
+  <br>Tuono
+</h1>
+  <p align="center">
+    Full-stack web framework for building React applications using Rust as the backend with a strong focus on usability and performance.
+    <br />
+    <strong><a href="https://tuono.dev">https://tuono.dev</a></strong>
+  </p>
+  <p align="center">
+    <a target="_blank" href="https://discord.com/invite/khQzPa654B">
+      <img src="https://dcbadge.limes.pink/api/server/https://discord.com/invite/khQzPa654B">
+    </a>
+  </p>
+</p>
 
 <!--
 
