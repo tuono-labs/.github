@@ -12,7 +12,7 @@
   </p>
   <p align="center">
     <a target="_blank" href="https://discord.com/invite/khQzPa654B">
-      <img src="https://dcbadge.limes.pink/api/server/https://discord.com/invite/khQzPa654B">
+      <img src="/profile/discord-mark-blue.svg" height="24">
     </a>
   </p>
 </p>
